@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audio Demo</string>
+    <string name="btnPlayText">PLAY</string>
+    <string name="btnPauseText">PAUSE</string>
+    <string name="txtVolumeText">Volume</string>
+    <string name="txtProgressText">Progress</string>
+</resources>

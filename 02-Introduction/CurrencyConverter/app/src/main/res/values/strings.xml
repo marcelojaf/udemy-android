@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="lblEnterAmountText">Enter the amount in US dollars you want to convert</string>
+    <string name="btnConvertText">Convert</string>
+    <string name="txtAmountHint">0.00</string>
+    <string name="ConvertedCurrencyMessage">\"Total amount in BRL is: \"</string>
+</resources>

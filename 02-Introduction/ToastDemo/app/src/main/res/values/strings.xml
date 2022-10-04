@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastDemo</string>
+    <string name="btnClickMeText">CLICK ME!</string>
+    <string name="lblWhatsYourNameText">What is your name?</string>
+</resources>

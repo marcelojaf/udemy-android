@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="imgHomerDescription">Homer Simpson</string>
+    <string name="imgBartDescription">Bart Simpson</string>
+</resources>

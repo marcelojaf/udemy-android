@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cat Switcher</string>
+    <string name="btnSwitchCatText">Switch Cat</string>
+</resources>

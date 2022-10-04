@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connect 3 - Tic Tac Toe</string>
+    <string name="txtPlayerText">Player: Yellow</string>
+    <string name="txtRestartGameText">Restart Game</string>
+    <string name="ActivePlayerRed">Player: Red</string>
+    <string name="ActivePlayerYellow">Player: Yellow</string>
+    <string name="YellowPlayerName">Yellow</string>
+    <string name="RedPlayerName">Red</string>
+    <string name="WinnerPlayer">Player %1$s has won!!</string>
+    <string name="InitialPlayer">Player: Yellow</string>
+</resources>

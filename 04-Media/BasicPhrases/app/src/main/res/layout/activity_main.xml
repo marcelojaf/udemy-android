@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:columnCount="2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rowCount="4">
+
+        <Button
+            android:id="@+id/btn11"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:tag="doyouspeakenglish"
+            android:text="@string/btn11Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn12"
+            android:gravity="center"
+            android:tag="goodevening"
+            android:text="@string/btn12Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn21"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:tag="hello"
+            android:text="@string/btn21Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn22"
+            android:gravity="center"
+            android:tag="howareyou"
+            android:text="@string/btn22Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn31"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:tag="ilivein"
+            android:text="@string/btn31Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn32"
+            android:gravity="center"
+            android:tag="mynameis"
+            android:text="@string/btn32Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn41"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:tag="please"
+            android:text="@string/btn41Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+
+        <Button
+            android:id="@+id/btn42"
+            android:gravity="center"
+            android:tag="welcome"
+            android:text="@string/btn42Text"
+            android:textAlignment="center"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1" />
+    </androidx.gridlayout.widget.GridLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

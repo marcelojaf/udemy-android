@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Connect 3 - Jogo da Velha</string>
+    <string name="txtPlayerText">Jogador: Amarelo</string>
+    <string name="txtRestartGameText">Reiniciar Jogo</string>
+    <string name="ActivePlayerRed">Jogador: Vermelho</string>
+    <string name="ActivePlayerYellow">Jogador: Amarelo</string>
+    <string name="YellowPlayerName">Amarelo</string>
+    <string name="RedPlayerName">Vermelho</string>
+    <string name="WinnerPlayer">Jogador %1$s ganhou!!</string>
+    <string name="InitialPlayer">Jogador: Amarelo</string>
+</resources>

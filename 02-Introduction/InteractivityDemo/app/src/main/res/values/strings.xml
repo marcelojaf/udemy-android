@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InteractivityDemo</string>
+    <string name="btnTestValue">Press Here!</string>
+</resources>
